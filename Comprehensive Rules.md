@@ -9,3 +9,15 @@
 		  The offending player must also draw a card.
 
 	[1.3] The State may do what it pleases.
+
+2. Cards: <br>
+	*Cards are the primary game object of Mao.*
+
+	[2.1] A card is any object which has all of the following:
+			a [Name] (it need not be unique)
+   			a "front" and "back" face (these are designated when added to the game)
+
+   	[2.2] A card may also have any amount of the following:
+   			Rules Text
+   			Tags
+

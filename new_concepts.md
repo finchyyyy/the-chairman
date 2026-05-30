@@ -26,7 +26,7 @@ This document holds all of mine or others ideas for new rules/system mechanics. 
 ^ may still need a point buy system/whatever
 ^ maybe can choose when played who it affects? (put rules card in respective player's Rules Zone)
 
-   ** RULE - GAGGING PLAYERS - 30/05
+    ** RULE - GAGGING PLAYERS - 30/05
 > original idea from Cam's rule on 26/05:
 "When you play a [Six], you must change the accent/language that you are speaking in"
 ^ this is a cool idea, but there are a couple problems:

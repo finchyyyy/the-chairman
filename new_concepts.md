@@ -25,3 +25,17 @@ This document holds all of mine or others ideas for new rules/system mechanics. 
 ^ balances in two ways - rule cards are normally harder to play, and it means you have to go through more cards
 ^ may still need a point buy system/whatever
 ^ maybe can choose when played who it affects? (put rules card in respective player's Rules Zone)
+
+   ** RULE - GAGGING PLAYERS - 30/05
+> original idea from Cam's rule on 26/05:
+"When you play a [Six], you must change the accent/language that you are speaking in"
+^ this is a cool idea, but there are a couple problems:
+when does the rule stop taking effect? forever?
+How does a player unfamiliar with the rule know when they are affected by it?
+> in the game, i modified it to last until 6 cards had been played, putting a d6 infront of the relevant player
+
+> I personally don't like the idea of accents, but that gagging/silencing a player (they are no longer being able to make calls) is an interesting alternative effect
+^ note that being gagged/silenced does not prevent them from speaking, but instead The State ignores any calls that they might want to make.
+^ this includes "Mao" and the Joker's suit choice (joker needs to be changed to "may declare a suit")
+
+> "When you play a [???], you are gagged for [X] turns/until [X] cards have been played."

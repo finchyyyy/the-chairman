@@ -1,6 +1,6 @@
 This document holds all of mine or others ideas for new rules/system mechanics. When they are finalised, they will be moved to state_approved/cmp_rules or removed if they suck.
 <br> There will be an issue on the issue board for each of these entries. Most recent notes for each will be put here.
-<br> **THIS DOCUMENT IS MEANT TO BE READ IN PLAINTEXT, AS ALL DOCUMENTS SHOULD**
+<br> **THIS DOCUMENT IS MEANT TO BE READ IN THE PLAINTEXT MODE, AS ALL DOCUMENTS SHOULD**
 
     ** CONCEPT - CYCLING - 29/05
 > originally:
@@ -29,7 +29,7 @@ This document holds all of mine or others ideas for new rules/system mechanics. 
     ** RULE - GAGGING PLAYERS - 30/05
 > original idea from Cam's rule on 26/05:
 "When you play a [Six], you must change the accent/language that you are speaking in"
-^ this is a cool idea, but there are a couple problems:
+^ cool idea, couple problems:
 when does the rule stop taking effect? forever?
 How does a player unfamiliar with the rule know when they are affected by it?
 > in the game, i modified it to last until 6 cards had been played, putting a d6 infront of the relevant player
@@ -39,3 +39,12 @@ How does a player unfamiliar with the rule know when they are affected by it?
 ^ this includes "Mao" and the Joker's suit choice (joker needs to be changed to "may declare a suit")
 
 > "When you play a [???], you are gagged for [X] turns/until [X] cards have been played."
+
+
+    ** RULE/SUBGAME - PAUL ALLEN'S CARD - 30/05
+> original idea from Shaiya's rule on 26/05:
+"When you play an [Ace], you may Reveal a card from your hand, with the call "New card. Wha'd'ya think?". If you do so, choose a player other than yourself, with the call "Let's see Paul Allen's card.". That player reveals a card from their hand. Whoever reveals the lowest card (2 is lowest) adds all cards revealed this way to their hand.
+^ cool idea, couple problems:
+> if you reveal an [Ace], a win is basically guaranteed: anything that gives -2 adv must have some risk involved
+
+

@@ -9,7 +9,7 @@ I also have plans to adapt this game to a (possibly online multiplayer?) video g
 
 Also, most of the files in this repo are .md files, but they are intended to be viewed in plaintext formatting. This is because i hate how github displays markdown files. Thank you for not understanding.
 
-Relevant Files: <br>
+### Relevant Files: <br>
   * Comprehensive Rules.md - lengthy rules for Mao, meant to read like the MTG comprehensive rules.
   * state_approved.md - example (balanced-ish) rules that have been sanctioned for play by The State (me)
   * new_concepts.md - new and interesting concepts that I am testing out.

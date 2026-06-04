@@ -8,3 +8,8 @@ This project is an attempt at formalising the rules of Mao - this is intended to
 I also have plans to adapt this game to a (possibly online multiplayer?) video game format under the name of The Chairman, but this is a frankly Herculean task - its closest parralel, Magic The Gathering: Arena has so many people working on it and still manages to be a gigantic buggy mess. Don't hold your breath :]
 
 Also, most of the files in this repo are .md files, but they are intended to be viewed in plaintext formatting. This is because i hate how github displays markdown files. Thank you for not understanding.
+
+Relevant Files: <br>
+  * Comprehensive Rules.md - lengthy rules for Mao, meant to read like the MTG comprehensive rules.
+  * state_approved.md - example (balanced-ish) rules that have been sanctioned for play by The State (me)
+  * new_concepts.md - new and interesting concepts that I am testing out.

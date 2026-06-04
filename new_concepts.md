@@ -47,4 +47,9 @@ How does a player unfamiliar with the rule know when they are affected by it?
 ^ cool idea, couple problems:
 > if you reveal an [Ace], a win is basically guaranteed: anything that gives -2 adv must have some risk involved
 
+   ** RULE - ADDITIONAL PLAY PILES - 04/06
+> original idea from Ivan's rule on 04/06:
+> "When you play a card of the same rank as that on the top of the Play Pile, you may instead create a new Play Pile, moving the card you just played onto it. If you do, each player other than you gives you a card of their choice. If you play a card onto this pile that matches the rank of the main Play Pile, draw a card, then move all cards from this pile onto the main Play Pile - this pile ceases to exist."
+^ (rewritten to fit rules nomenclature)
 
+> this rule is kind of jank (especially punishing players for interacting with the mechanic), but I really like how it removes the new pile after long enough - most rules i see like this dont leave play until Draw Pile is shuffled (creates big problems if sufficiently large Draw Pile), and a second play pile is a game-warping effect that should end soon after it is created.

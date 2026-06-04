@@ -53,3 +53,9 @@ How does a player unfamiliar with the rule know when they are affected by it?
 ^ (rewritten to fit rules nomenclature)
 
 > this rule is kind of jank (especially punishing players for interacting with the mechanic), but I really like how it removes the new pile after long enough - most rules i see like this dont leave play until Draw Pile is shuffled (creates big problems if sufficiently large Draw Pile), and a second play pile is a game-warping effect that should end soon after it is created.
+
+    ** CONCEPT - ATTACHING CARDS TO RULES - 04/06
+this idea has existed for a while in my brain, but still havent found a good way to use it yet
+> similar to Oblivion Ring-type mechanics in MTG, where you put cards "beneath" other cards for another purpose.
+> maybe "Attach the top card of the Draw Pile to this card. You may not play any card that shares a Tag with the attached card"?
+^ rules also get a bit wacky when the card with Rules Text gets moved from the zone where this happens in - what happens to the other card?

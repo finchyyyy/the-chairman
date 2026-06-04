@@ -40,6 +40,10 @@ How does a player unfamiliar with the rule know when they are affected by it?
 
 > "When you play a [???], you are gagged for [X] turns/until [X] cards have been played."
 
+> [04/06] This rule requires very good communication to not just be gaslighting the players - use "I heard you say "XXX", but The State didn't."
+^ (aowyn got very mad lmao)
+> also when using "for [X] turns", make sure to downtick their counter WHEN THEY PASS, NOT WHEN THEY PLAY
+> altogether a sound rule, but will need to flesh out the rules for calls
 
     ** RULE/SUBGAME - PAUL ALLEN'S CARD - 30/05
 > original idea from Shaiya's rule on 26/05:

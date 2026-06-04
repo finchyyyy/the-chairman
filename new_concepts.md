@@ -42,7 +42,7 @@ How does a player unfamiliar with the rule know when they are affected by it?
 
 > [04/06] This rule requires very good communication to not just be gaslighting the players - use "I heard you say "XXX", but The State didn't."
 ^ (aowyn got very mad lmao)
-> also when using "for [X] turns", make sure to downtick their counter WHEN THEY PASS, NOT WHEN THEY PLAY
+also when using "for [X] turns", make sure to downtick their counter WHEN THEY PASS, NOT WHEN THEY PLAY
 > altogether a sound rule, but will need to flesh out the rules for calls
 
     ** RULE/SUBGAME - PAUL ALLEN'S CARD - 30/05

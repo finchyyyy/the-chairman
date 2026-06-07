@@ -15,7 +15,7 @@ The worst case scenario for a turn is having to draw a card and you still not ha
 This is important for players to consider when dealing with both their own hand and their opponents - any player with one card left might be able to shed it on their turn (this is why a "Mao"/"UNO"/whatever call when passing with only one card left is a compulsory action - it stops players from winning 'out of nowhere'), and changes how other players play - they might choose to change the top card away from something that would benefit them more in order to reduce the number of 'outs' (cards that the player in Mao must have to win).
 
 > THIS IS WHY ONE OF THE MOST POWERFUL EFFECTS IN THIS GAME IS SHEDDING MORE THAN ONE CARD A TURN (-2 adv) - IT LETS PLAYERS WIN "OUT OF NOWHERE"
-WHICH SUCKS BECAUSE ITS THE FIRST EFFECT THAT EVERYONE THINKS OF
+WHICH SUCKS BECAUSE PLAYING "PAIRS" (two cards of the same rank at the same time) THE FIRST EFFECT THAT EVERYONE THINKS OF 
 > any rule that allows for the shedding of more than one card a turn must carry some level of risk or be a rare effect or something else - IT CANNOT BE FREE
 
 > The ability to go +0 at will for a turn is also quite powerful - this is what the Cycling mechanic is intended to provide

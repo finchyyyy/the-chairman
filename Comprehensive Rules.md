@@ -44,15 +44,17 @@
 	[5.2] If it is your turn and you have not drawn a card, you may draw a card.
 	[5.3] If it is your turn and you have drawn or played a card, you may pass.
 
-	[5.4] You may play cards from your hand with the same name as the card on the top of the Play Pile.
+	[5.4] If you have one card in your hand, you must call "Mao" when you pass.
 
-	[5.5] If you pass and you have no cards in your hand:
+	[5.5] You may play cards from your hand with the same name as the card on the top of the Play Pile.
+
+	[5.6] If you pass and you have no cards in your hand:
    		Add 1 to your Score.
    		You may either:
    			Create a new Rule and add it to either the Rules Zone or your Hand.
 			Or add a card from the Rules Zone to your Hand.
 		Draw X cards, where X is 3 + your Score.
 
-	[5.6] If you pass and you have 10 or more cards in your hand:
+	[5.7] If you pass and you have 10 or more cards in your hand:
 		Subtract 1 from your Score.
 		Tuck half your hand (rounding up) at random.

@@ -72,3 +72,11 @@ Current iteration:
 > "When a [...] is played, Tuck all cards attached to this one, then attach the top card of the Draw Pile to this card. All tags of attached cards are forbidden."
 
 
+    ** RULE CARD - Ball and Chain
+> originally from George's rule on 08/06:
+"Ball and Chain" - [2 & Club] Pick up this card if you play the Queen of Hearts"
+> giggled when picking this up for the first time
+> to work, needs me to better define rules on Tags - the [2 & Club] is still hard to think about
+> other question is when Rules Text apply, because what happens if someone has the Ball and Chain and then someone else plays the Queen of Hearts?
+^ current ruling is that Rules Text only applies when in the Rules Zone, so it wouldnt change hands
+> i want to make a divorce joke here, but im not sure how to go about it...

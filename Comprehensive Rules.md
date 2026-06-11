@@ -36,8 +36,22 @@
 
 	[4.1] Any Rules Text in The State's [Rules Zone] applies to all players at all times.
 	[4.2] Most Rules Text is to be written in the second person. "You" or "Your" are used in the singular, unless otherwise stated. 
+	[4.3] If a piece of Rules Text contains an action in the active voice, you are responsible for the action, if in the passive voice, The State performs the action.
 
-5. Basic Rules of Play: <br>
+
+5. Rule Cards:
+	*Rule Cards are cards created by players.*
+
+[5.1] Rule Cards should be visually distinct from regular cards.
+[5.2] When a Rule Card is played, it is moved to the Rules Zone.
+
+
+Rules Text on the front face of a card only applies when that rule is inside the Rules Zone.
+Rules Text on the back face of a card applies at all times.
+
+
+
+6. Basic Rules of Play: <br>
 	*These rules are by default active at the start of the game.*
 
 	[5.1] If it is your turn and you have not played a card, you may play a card from your hand.
@@ -51,10 +65,14 @@
 	[5.6] If you pass and you have no cards in your hand:
    		Add 1 to your Score.
    		You may either:
-   			Create a new Rule and add it to either the Rules Zone or your Hand.
+   			Create a Rule Card and move it to either the Rules Zone or your Hand.
 			Or add a card from the Rules Zone to your Hand.
 		Draw X cards, where X is 3 + your Score.
 
 	[5.7] If you pass and you have 10 or more cards in your hand:
 		Subtract 1 from your Score.
 		Tuck half your hand (rounding up) at random.
+
+	[5.8] If you pass and a valid card has not been played since it was last your turn, the top card of the Draw Pile is placed onto the top of the Play Pile.
+
+	[5.9] Whenever the Draw Pile is empty, move all but the top card of the Play Pile to the Draw Pile, then shuffle the Draw Pile.

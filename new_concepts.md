@@ -56,10 +56,19 @@ also when using "for [X] turns", make sure to downtick their counter WHEN THEY P
 > "When you play a card of the same rank as that on the top of the Play Pile, you may instead create a new Play Pile, moving the card you just played onto it. If you do, each player other than you gives you a card of their choice. If you play a card onto this pile that matches the rank of the main Play Pile, draw a card, then move all cards from this pile onto the main Play Pile - this pile ceases to exist."
 ^ (rewritten to fit rules nomenclature)
 
-> this rule is kind of jank (especially punishing players for interacting with the mechanic), but I really like how it removes the new pile after long enough - most rules i see like this dont leave play until Draw Pile is shuffled (creates big problems if sufficiently large Draw Pile), and a second play pile is a game-warping effect that should end soon after it is created.
+> i have been thinking about how to balance extra play piles for a while, but having them collapse back into the main pile is the coolest method ive seen so far
+> this rule kinda needs to be trimmed tho, it punishes you for creating those piles
+> only other question is what happens when the deck is shuffled - i suppose the top card of both play piles would be retained
+> otherwise very cool and swag
+
 
     ** CONCEPT - ATTACHING CARDS TO RULES - 04/06
 this idea has existed for a while in my brain, but still havent found a good way to use it yet
 > similar to Oblivion Ring-type mechanics in MTG, where you put cards "beneath" other cards for another purpose.
 > maybe "Attach the top card of the Draw Pile to this card. You may not play any card that shares a Tag with the attached card"?
 ^ rules also get a bit wacky when the card with Rules Text gets moved from the zone where this happens in - what happens to the other card?
+
+Current iteration:
+> "When a [...] is played, Tuck all cards attached to this one, then attach the top card of the Draw Pile to this card. All tags of attached cards are forbidden."
+
+

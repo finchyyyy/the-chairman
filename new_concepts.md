@@ -1,4 +1,4 @@
-This document holds all of mine or others ideas for new rules/system mechanics. When they are finalised, they will be moved to state_approved/cmp_rules or removed if they suck.
+This document holds all of mine and others ideas for new rules/system mechanics. When they are finalised, they will be moved to state_approved/cmp_rules or removed if they suck.
 <br> There will be an issue on the issue board for each of these entries. Most recent notes for each will be put here.
 <br> **THIS DOCUMENT IS MEANT TO BE READ IN THE PLAINTEXT MODE, AS ALL DOCUMENTS SHOULD**
 
@@ -74,7 +74,7 @@ Current iteration:
 
     ** RULE CARD - BALL AND CHAIN
 > originally from George's rule on 08/06:
-"Ball and Chain" - [2 & Club]: Pick up this card if you play the Queen of Hearts.
+"Ball and Chain" - [Two & Club]: Pick up this card if you play the Queen of Hearts.
 > giggled when picking this up for the first time
 > to work, needs me to better define rules on Tags - the [2 & Club] is still hard to think about
 > other question is when Rules Text apply, because what happens if someone has the Ball and Chain and then someone else plays the Queen of Hearts?
@@ -83,7 +83,16 @@ Current iteration:
 
     ** RULE CARD - THE POPE
 > originally from George's rule on 08/06:
-"The Pope" - [A]: When you play the Ace of Spades, pick up this card. When you play this card, the next player draws 4 cards.
+"The Pope" - [Ace]: When you play the Ace of Spades, pick up this card. When you play this card, the next player draws 4 cards.
 > not sure about the naming? he drew a stick figure with a Bible, not sure what that was suppose to mean - maybe Motorhead might be a more relevant name.
 > funny idea though, i need to experiment more with moving Rule Cards to hand, and also giving the cards Tags that arent necessarily just whatever it affects
 > this falls off the more players at the table there are though - maybe make it an "all other players" effect?
+
+    ** RULE CARD - PHONE
+> originally from George's rule on 08/06:
+"Phone" - [Seven]: When you play this card, choose an opponent and look at their hand. When you pick up this card, draw a card. When you play this card, do not move it to the Rules Zone.
+> kind of interesting, acts a bit like Peeping Tom, but with an upfront cost instead of a risk.
+> Not sure about the effect that keeps it in the deck though, I like it as a "if theres a seven on top, draw two to look at your opponent's hand."
+^ (when we were playing, it was just an agreement to keep it in the deck, not a seperate piece of Rules Text.)
+^ also kinda messes up game flow, as its kinda a brick when it comes down... (played on a seven already, so only 3 outs)
+> could use different flavouring? pondering The Orb(tm) perhaps

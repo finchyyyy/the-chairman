@@ -2,7 +2,7 @@ This document holds all of mine or others ideas for new rules/system mechanics. 
 <br> There will be an issue on the issue board for each of these entries. Most recent notes for each will be put here.
 <br> **THIS DOCUMENT IS MEANT TO BE READ IN THE PLAINTEXT MODE, AS ALL DOCUMENTS SHOULD**
 
-    ** CONCEPT - CYCLING - 29/05
+    ** MECHANIC - CYCLING - 29/05
 > originally:
 [COMMON] CYCLING - [???]
 "If it is your turn, you may Reveal and Tuck a [???]. If you do so, draw a card."
@@ -26,7 +26,7 @@ This document holds all of mine or others ideas for new rules/system mechanics. 
 ^ may still need a point buy system/whatever
 ^ maybe can choose when played who it affects? (put rules card in respective player's Rules Zone)
 
-    ** RULE - GAGGING PLAYERS - 30/05
+    ** RULE/CONCEPT - GAGGING PLAYERS - 30/05
 > original idea from Cam's rule on 26/05:
 "When you play a [Six], you must change the accent/language that you are speaking in"
 ^ cool idea, couple problems:

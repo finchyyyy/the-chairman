@@ -96,3 +96,12 @@ Current iteration:
 ^ (when we were playing, it was just an agreement to keep it in the deck, not a seperate piece of Rules Text.)
 ^ also kinda messes up game flow, as its kinda a brick when it comes down... (played on a seven already, so only 3 outs)
 > could use different flavouring? pondering The Orb(tm) perhaps
+
+    ** RULE CARD - DICE ON FIVES
+> originally from my rule on 08/06
+Give all players one die. When you play a [Five], gain 1 die. When there are no cards in the deck, all players roll their dice - The player with the lowest sum draws 3 cards - Then remove all but one die from each player.
+> general idea is that over the course of a deck, people want to be trying to play fives, sometimes even if its an invalid card (makes getting 5s denied a good thing), and then theres a bit of luck
+> originally was that the highest roller would win and make a new rule, but is way too powerful of an effect.
+> could work as an endgame rule as an actual "win the game" effect?
+^ still needs work though
+^ also needs a better name lmao

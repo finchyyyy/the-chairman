@@ -12,4 +12,6 @@ Also, most of the files in this repo are .md files, but they are intended to be 
 ### Relevant Files: <br>
   * Comprehensive Rules.md - lengthy rules for Mao, meant to read like the MTG comprehensive rules.
   * state_approved.md - example (balanced-ish) rules that have been sanctioned for play by The State (me)
-  * new_concepts.md - new and interesting concepts that I am testing out.
+  * new_concepts.md - new and interesting concepts that are being tested.
+
+### If you have any ideas for rules or changes to the system, comment on the issue in the Discussions tab :]

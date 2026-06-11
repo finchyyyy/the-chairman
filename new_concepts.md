@@ -47,13 +47,25 @@ also when using "for [X] turns", make sure to downtick their counter WHEN THEY P
 
     ** RULE/SUBGAME - PAUL ALLEN'S CARD - 30/05
 > original idea from Shaiya's rule on 26/05:
-"When you play an [Ace], you may Reveal a card from your hand, with the call "New card. Wha'd'ya think?". If you do so, choose a player other than yourself, with the call "Let's see Paul Allen's card.". That player reveals a card from their hand. Whoever reveals the lowest card (2 is lowest) adds all cards revealed this way to their hand.
-^ cool idea, couple problems:
-> if you reveal an [Ace], a win is basically guaranteed: anything that gives -2 adv must have some risk involved
+"When you play an [Ace], you may Reveal a card from your hand, with the call "New card. Wha'd'ya think?". If you do so, choose a player other than yourself, with the call "Let's see Paul Allen's card.". That player reveals a card from their hand. Whoever reveals the lowest card (2 is lowest) moves all cards revealed in this exchange to their hand.
+
+> If i wanted to keep it as Paul Allen's Card, I would like to do a couple things to this rule:
+^ first, Paul Allen must follow the suit of the card played - if he has no cards of this suit, he loses by default
+> secondly, i want to include an additional part of the scene, where one of the other guys (LARP ALERT) goes "thats nice, bateman, but thats nothing" and shows off effectively the same business card.
+^ gameplaywise, the same card must be a card with the same name as Bateman's card. that card is added to the pool of cards in the bid, but that guy will never have to pick them up.
+> secondly, i want to change the card value order: King is highest, Ace is low but beats King
+
+> revised rule:
+"Paul Allen's Card": When you play an [...], you may Reveal a card from your hand. Any other player may Reveal a card of the same name. Then choose an oppponent who has not revealed a card to be Paul Allen - they may reveal a card. All revealed cards are moved to Bateman's hand if Paul Allen reveals a card that is of the same suit, but a higher rank; otherwise they are moved to Paul Allen's hand.
+
+> or in terms of Games:
+"Business Card": When you play a [...], you may play Paul Allen's Card - You are Bateman.
+
+Paul Allen's Card: Bateman reveals a card from their hand. Any other player may reveal a card of the same name. Then Bateman chooses an opponent who has not revealed a card to be Paul Allen. Paul Allen may reveal a card from their hand. If Paul Allen reveals a higher card of the same suit as Bateman's card, all cards revealed this game are moved to Bateman's hand, otherwise they are moved to Paul Allen's hand.
 
     ** RULE - ADDITIONAL PLAY PILES - 04/06
 > original idea from Ivan's rule on 04/06:
-> "When you play a card of the same rank as that on the top of the Play Pile, you may instead create a new Play Pile, moving the card you just played onto it. If you do, each player other than you gives you a card of their choice. If you play a card onto this pile that matches the rank of the main Play Pile, draw a card, then move all cards from this pile onto the main Play Pile - this pile ceases to exist."
+"When you play a card of the same rank as that on the top of the Play Pile, you may instead create a new Play Pile, moving the card you just played onto it. If you do, each player other than you gives you a card of their choice. If you play a card onto this pile that matches the rank of the main Play Pile, draw a card, then move all cards from this pile onto the main Play Pile - this pile ceases to exist."
 ^ (rewritten to fit rules nomenclature)
 
 > i have been thinking about how to balance extra play piles for a while, but having them collapse back into the main pile is the coolest method ive seen so far

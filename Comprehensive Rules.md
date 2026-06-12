@@ -1,6 +1,6 @@
 ## Mao
 
-	1. Golden Rules: <br>
+	1. Golden Rules:
 		*"Mao has many rules. The only rule that may be revealed is this one."*
 
 [1.1] Every action is forbidden except those that are explicitly permitted.
@@ -10,7 +10,8 @@
 
 [1.3] The State may do what it pleases.
 
-	2. Cards: <br>
+
+	2. Cards:
 		*Cards are the primary game object of Mao.*
 
 [2.1] A card is any object which has all of the following:
@@ -21,7 +22,8 @@
 		Rules Text
 		Tags
 
-	3. Basic Operations: <br>
+
+	3. Basic Operations:
 	   	*Listed here are standard actions that will be used commonly in Rules Text.*
 
 [3.1] Draw: To draw, take the top card of the Draw Pile and add it to your Hand.
@@ -31,7 +33,8 @@
 [3.5] Return: To return, take a card and put it on the top of the Draw Pile.
 [3.6] Reveal: To reveal, choose a card and make it public to all players.
 
-	4. Rules Text: <br>
+
+	4. Rules Text:
 		*Mao has specific ways in which it words its rules.*
 
 [4.1] Any Rules Text in The State's [Rules Zone] applies to all players at all times.
@@ -47,10 +50,11 @@
 
 [5.3] Rules Text on the front face of a card only applies when that rule is inside the Rules Zone.
 [5.4] Rules Text on the back face of a card applies at all times.
-	
-    6. Basic Rules of Play: <br>
-		*These rules are by default active at the start of the game.*
 
+
+	6. Basic Rules of Play:
+		*These rules are by default active at the start of the game.*
+		
 [6.1] If it is your turn and you have not played a card, you may play a card from your hand.
 [5.2] If it is your turn and you have not drawn a card, you may draw a card.
 [5.3] If it is your turn and you have drawn or played a card, you may pass.

@@ -77,14 +77,14 @@ Paul Allen's Card: Bateman reveals a card from their hand. Any other player may 
 
 
     ** CONCEPT - ATTACHING CARDS TO RULES - 04/06
-this idea has existed for a while in my brain, but still havent found a good way to use it yet
+> this idea has existed for a while in my brain, but still havent found a good way to use it yet
 > similar to Oblivion Ring-type mechanics in MTG, where you put cards "beneath" other cards for another purpose.
 > maybe "Attach the top card of the Draw Pile to this card. You may not play any card that shares a Tag with the attached card"?
-^ rules also get a bit wacky when the card with Rules Text gets moved from the zone where this happens in - what happens to the other card?
+> rules also get a bit wacky when the card with Rules Text gets moved from the zone where this happens in - what happens to the other card?
 
-Current iteration:
-> "When a [...] is played, Tuck all cards attached to this one, then attach the top card of the Draw Pile to this card. All tags of attached cards are forbidden."
-
+> Current iteration:
+"When a [...] is played, tuck all cards attached to this one, then attach the top card of the Draw Pile to this card. All tags of attached cards are forbidden."
+> wording needs to be changed but the idea is there
 
     ** RULE CARD - BALL AND CHAIN
 > originally from George's rule on 08/06:

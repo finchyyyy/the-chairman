@@ -56,23 +56,23 @@
 		*These rules are by default active at the start of the game.*
 		
 [6.1] If it is your turn and you have not played a card, you may play a card from your hand.
-[5.2] If it is your turn and you have not drawn a card, you may draw a card.
-[5.3] If it is your turn and you have drawn or played a card, you may pass.
+[6.2] If it is your turn and you have not drawn a card, you may draw a card.
+[6.3] If it is your turn and you have drawn or played a card, you may pass.
 
-[5.4] If you have one card in your hand, you must call "Mao" when you pass.
+[6.4] If you have one card in your hand, you must call "Mao" when you pass.
 
-[5.5] You may play cards from your hand with the same name as the card on the top of the Play Pile.
+[6.5] You may play cards from your hand with the same name as the card on the top of the Play Pile.
 
-[5.6] If you pass and you have no cards in your hand:
+[6.6] If you pass and you have no cards in your hand:
 	Add 1 to your Score.
 	You may either:
 		Create a Rule Card and move it to either the Rules Zone or your Hand.
 		Or add a card from the Rules Zone to your Hand.
 	Draw X cards, where X is 3 + your Score.
-[5.7] If you pass and you have 10 or more cards in your hand:
+[6.7] If you pass and you have 10 or more cards in your hand:
 	Subtract 1 from your Score.
 	Tuck half your hand (rounding up) at random.
 
-[5.8] If you pass and a valid card has not been played since it was last your turn, the top card of the Draw Pile is placed onto the top of the Play Pile.
+[6.8] If you pass and a valid card has not been played since it was last your turn, the top card of the Draw Pile is placed onto the top of the Play Pile.
 
-[5.9] Whenever the Draw Pile is empty, move all but the top card of the Play Pile to the Draw Pile, then shuffle the Draw Pile.
+[6.9] Whenever the Draw Pile is empty, move all but the top card of the Play Pile to the Draw Pile, then shuffle the Draw Pile.

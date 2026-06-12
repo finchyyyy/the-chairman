@@ -48,7 +48,7 @@
 [5.3] Rules Text on the front face of a card only applies when that rule is inside the Rules Zone.
 [5.4] Rules Text on the back face of a card applies at all times.
 	
-	6. Basic Rules of Play: <br>
+    6. Basic Rules of Play: <br>
 		*These rules are by default active at the start of the game.*
 
 [6.1] If it is your turn and you have not played a card, you may play a card from your hand.

@@ -27,6 +27,9 @@ When you play a Rule Card, you may choose to place it in any of 1.your own, 2.yo
 > balances in two ways: rule cards are normally harder to play, and it means you have to go through more cards
 > might need a point buy system?
 
+Your deck must have exactly the tags a normal deck would have (4 [Ace], 4 [Two], 13 [Heart], 2 [Wild], etc), but you may organise them how you wish.
+> Rule Cards also probably draw from this pool?
+
 
     ** RULE/CONCEPT - GAGGING PLAYERS - 30/05
 > original idea from Cam's rule on 26/05:

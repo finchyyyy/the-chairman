@@ -15,9 +15,15 @@ This document holds all of mine and others ideas for new rules/system mechanics.
 
     ** GAMEMODE - 1v1 DECKBUILDER - 30/05
 > im a magic nerd so of course i want to play magic within this game
-Each player enters with a deck of 54(?) cards
-When a player draws, they draw from their own deck
-A player wins when they draw from an empty deck (lab man mention raaaaaaah)
+
+Each player enters with a deck of minimum 54 cards
+When a player draws, they draw from their own deck.
+> do we do away with the requirement to draw or play?
+> cos otherwise you can just pass forever
+> we will, however, remove the stalling rule - it shouldnt be necessary and theres ambiguity on which deck to flip from
+> stalling can be a strategy here i think
+
+A player wins when they have no cards in their deck or hand.
 > Players can slow each other down by putting cards into their opponent's decks/stopping them from playing cards
 > Being able to shed your hand is still rewarded because you get to draw 3/5/7/whatever cards in a turn
 Rules violations are now punished by adding cards to your deck instead of your hand (from hand or table?)
@@ -29,7 +35,9 @@ When you play a Rule Card, you may choose to place it in any of 1.your own, 2.yo
 
 Your deck must have exactly the tags a normal deck would have (4 [Ace], 4 [Two], 13 [Heart], 2 [Wild], etc), but you may organise them how you wish.
 > Rule Cards also probably draw from this pool?
-
+> this basically means that if you include Rule Cards, you have to make some of your other cards bricks
+> this will be an interesting thing to balance...
+> (some) player creativity will have to be sacrificed here i think?
 
     ** RULE/CONCEPT - GAGGING PLAYERS - 30/05
 > original idea from Cam's rule on 26/05:

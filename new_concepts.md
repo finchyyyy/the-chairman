@@ -128,5 +128,18 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 > general idea is that over the course of a deck, people want to be trying to play fives, sometimes even if its an invalid card (makes getting 5s denied a good thing), and then theres a bit of luck
 > originally was that the highest roller would win and make a new rule, but is way too powerful of an effect.
 > could work as an endgame rule as an actual "win the game" effect?
-^ still needs work though
+^  still needs work though
 ^ also needs a better name lmao
+
+
+    ** RULE CARD - LOVE LETTER
+> originally from my rule on 30/06
+"Love Letter" - [Heart]: When the Draw Pile is shuffled, add this card to the Draw Pile - When this card is played, you may reveal a [Heart]. If you do, give it to the next player.
+> see, the joke is that "my heart goes out to you" :]
+> sorry, I'll leave...
+> I also made a custom card back for this card - I think it can be done as a general thing, but still requires a flavour element
+> This card also is a way to remove multiple cards in one turn - giving a card to your opponent that is (with some exceptions) guaranteed always playable on their next turn is a kinder way to do this sort of effect
+> Also tried to implement markings on the card backs to indicate which card relates to what:
+> e.g. if each player has a notebook, they can note down what is behind each card they have (Card back has "JF I", notepad has "JF I - blah blah blah"
+> card art is a part of player expression, if i want to have online versions of this game, you need to be able to draw on the cards.
+> ...i assume there will be penises...

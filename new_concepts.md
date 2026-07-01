@@ -151,3 +151,15 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 > this is sorta just to teach that the Tags on the top right is the only relevant thing to determine if a card is playable or not.
 > When this was first introduced, there was a really funny moment where Joseph drew the "Three of Diamonds", and played it over the Five of Diamonds to guarantee playablility, and to try and figure out which what the card's properties were from my play. I then turned around and played the Three of Spades over it. mwhehehehehehehehehehe
 > If I ever make a singleplayer computer game on this, I WILL be using this.
+
+
+    ** CONCEPT - CARDS WITH HIDDEN TAGS
+> originally from Joseph's rule on 30/06:
+"Mystery Card" - [N/A]: N/A
+(some other card) - [N/A]: The Mystery Card is a [Four] and a [Club]
+> I think this is really funny, but not sure if there is anything deeper that can be done for this.
+> Maybe if the defining clause on the card is on another rule that will be picked up sometimes?
+> Maybe multiple clauses (which one takes precedence? most recently put down?)
+> ^ no this is actually really cool
+> because when a card is played it is made public to everyone, so it tells everyone that the mystery card is (right now) whatever it says, because it moves to the Rules Zone immediately afterwards.
+> ^ only problem here is knowing which tracking rule entered the rules zone last

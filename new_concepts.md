@@ -144,6 +144,8 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 > card art is a part of player expression, if i want to have online versions of this game, you need to be able to draw on the cards.
 > ...i assume there will be penises...
 
+> this rule is kind of unsafe with harmful heart cards (e.g. Ball and Chain), as it incentivises hoarding the shit out of this card.
+> although the point could be made that those harmful heart cards are the problem there.
 
     ** CONCEPT - DECEPTIVE CARDS
 "Three of Diamonds" - [Five], [Spade]
@@ -163,3 +165,13 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 > ^ no this is actually really cool
 > because when a card is played it is made public to everyone, so it tells everyone that the mystery card is (right now) whatever it says, because it moves to the Rules Zone immediately afterwards.
 > ^ only problem here is knowing which tracking rule entered the rules zone last
+
+
+    ** RULE CARD - FORTUNE TELLER
+> originally from Joseph's rule on 30/06:
+"Fortune Teller" - [Six], [Heart]: You may set aside this card. This card is played for you at the start of your next turn.
+> Basically, lets you get rid of 2 cards in a turn, but top has to be a specific card.
+> In this incarnation, I don't like this rule, it is FAR too hateable because its always [Six], [Heart]
+> but the idea of predicting what will be on top when you start your next turn is cool
+> maybe writing it down when you play the card
+> This is effectively a Call to just the State, that the other players do not hear. This implies that Calling does not necessarily need to be speaking out loud, and need not be public.

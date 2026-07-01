@@ -143,3 +143,11 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 > e.g. if each player has a notebook, they can note down what is behind each card they have (Card back has "JF I", notepad has "JF I - blah blah blah"
 > card art is a part of player expression, if i want to have online versions of this game, you need to be able to draw on the cards.
 > ...i assume there will be penises...
+
+
+    ** CONCEPT - DECEPTIVE CARDS
+"Three of Diamonds" - [Five], [Spade]
+> yeah thats right fuck you.
+> this is sorta just to teach that the Tags on the top right is the only relevant thing to determine if a card is playable or not.
+> When this was first introduced, there was a really funny moment where Joseph drew the "Three of Diamonds", and played it over the Five of Diamonds to guarantee playablility, and to try and figure out which what the card's properties were from my play. I then turned around and played the Three of Spades over it. mwhehehehehehehehehehe
+> If I ever make a singleplayer computer game on this, I WILL be using this.

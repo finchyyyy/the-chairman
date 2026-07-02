@@ -75,6 +75,9 @@ How does a player unfamiliar with the rule know when they are affected by it?
 Paul Allen's Card: Bateman reveals a card from their hand. Any other player may reveal a card of the same name. Then Bateman chooses an opponent who has not revealed a card to be Paul Allen. Paul Allen may reveal a card from their hand. If Paul Allen reveals a higher card of the same suit as Bateman's card, all cards revealed this game are moved to Bateman's hand, otherwise they are moved to Paul Allen's hand.
 "Business Card": When you play a [...], you may play Paul Allen's Card - You are Bateman.
 
+> POSSIBLE REWORK: "New card." -> What if it's smth like:
+"When you draw a Jack, you may reveal it. Then choose a player - they must reveal a Jack or draw a card."
+> This has tracking issues, but i also like this, it requires much less wording to implement.
 
     ** RULE - ADDITIONAL PLAY PILES - 04/06
 > original idea from Ivan's rule on 04/06:

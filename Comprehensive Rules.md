@@ -22,6 +22,8 @@
 		Rules Text
 		Tags
 
+[2.3] A Basic Card is a type of Card that is part of the deck at the start of the game.
+[2.4] A Rule  Card is a type of Card that is created by players. These cards are moved to the Rules Zone after being played.
 
 	3. Basic Operations:
 	   	*Listed here are standard actions that will be used commonly in Rules Text.*

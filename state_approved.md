@@ -1,4 +1,4 @@
-This document contains all 'added' rules that I have thought of and consider "balanced". <br>
+This document contains all 'added' rules that I consider "complete" (suffiently flavourful and mechanically interesting). <br>
 **THESE NOTES ARE INTENDED TO BE READ IN PLAINTEXT MODE.** (i hate how github presents .md)
 
 	** ACES SCRY - [Ace]

@@ -178,3 +178,21 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 > but the idea of predicting what will be on top when you start your next turn is cool
 > maybe writing it down when you play the card
 > This is effectively a Call to just the State, that the other players do not hear. This implies that Calling does not necessarily need to be speaking out loud, and need not be public.
+
+
+    ** CONCEPT - TOKENS
+> once again shamelessly ripping from mtg
+A Token Card is a type of Card that is created by other effects. These cards are removed from the game once played.
+> could have standardised-ish tokens? not sure what they could be
+> I just think having smth that adds like 5 copies of the Three of Diamonds to your hand without fucking up the deck would be really funny
+> note that they can just be put into the deck without stopping to exist, that might be relevant
+> idk smth smth
+"???" - [Wild]: When you play this card, draw a card. You may play an additional time this turn.
+> might work?
+
+    ** RULE CARD - DOPPLEGANGER
+"Doppleganger" - N/A: When you play this card, reveal another card from your hand. This card becomes a copy of that card.
+> idk literally just thought of this
+> kind of a situational card, i think this can be very interesting.
+> note that it becomes a copy AFTER it has already been played, so "on play" effects of that card do not trigger.
+> also it turns back to normal after it gets moved like mtg

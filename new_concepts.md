@@ -40,6 +40,7 @@ Your deck must have exactly the tags a normal deck would have (4 [Ace], 4 [Two],
 > this will be an interesting thing to balance...
 > (some) player creativity will have to be sacrificed here i think?
 
+
     ** RULE/CONCEPT - GAGGING PLAYERS - 30/05
 > original idea from Cam's rule on 26/05:
 "When you play a [Six], you must change the accent/language that you are speaking in"
@@ -85,6 +86,7 @@ Paul Allen's Card: Bateman reveals a card from their hand. Any other player may 
 "When you draw a Jack, you may reveal it. Then choose a player - they must reveal a Jack or draw a card."
 > This has tracking issues (see MTG's Miracle), but i also like this, it requires much less wording to implement and follows the quote better.
 
+
     ** RULE - ADDITIONAL PLAY PILES - 04/06
 > original idea from Ivan's rule on 04/06:
 "When you play a card of the same rank as that on the top of the Play Pile, you may instead create a new Play Pile, moving the card you just played onto it. If you do, each player other than you gives you a card of their choice. If you play a card onto this pile that matches the rank of the main Play Pile, draw a card, then move all cards from this pile onto the main Play Pile - this pile ceases to exist."
@@ -123,6 +125,7 @@ If you play a card with a Tag that matches the attached card, draw a card.
 > [09/07]
 > this rule fucked up and evil yo - having 1 out is just too punishing
 > need to make this actually playable sometimes - [Club & Face]?
+
 
     ** RULE CARD - THE POPE
 > originally from George's rule on 08/06:

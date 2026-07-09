@@ -54,9 +54,14 @@ How does a player unfamiliar with the rule know when they are affected by it?
 > Being gagged/silenced does not prevent a player from speaking, but instead The State ignores any calls that they might want to make.
 > this includes "Mao" and the Joker's suit choice (joker needs to be changed to "may declare a suit")
 
-> [04/06] This rule requires very good communication to not just be gaslighting the players - use "I heard you say "XXX", but The State didn't." (aowyn got very mad lmao)
+> [04/06]
+> This rule requires very good communication to not just be gaslighting the players - use "I heard you say "XXX", but The State didn't." (aowyn got very mad lmao)
 > when using "for [X] turns", make sure to downtick their counter WHEN THEY PASS, NOT WHEN THEY PLAY
 > altogether a sound rule, but will need to flesh out the rules for calls
+
+> [09/07]
+> Need to further define whether 'turns' means "your turns" or "everyone's turns" (turns are quick in real time, fiddling with dice that often is annoying)
+> "until you have taken [X] turns"?
 
 
     ** RULE/SUBGAME - PAUL ALLEN'S CARD - 30/05
@@ -78,7 +83,7 @@ Paul Allen's Card: Bateman reveals a card from their hand. Any other player may 
 
 > POSSIBLE REWORK: "New card." -> What if it's smth like:
 "When you draw a Jack, you may reveal it. Then choose a player - they must reveal a Jack or draw a card."
-> This has tracking issues, but i also like this, it requires much less wording to implement.
+> This has tracking issues (see MTG's Miracle), but i also like this, it requires much less wording to implement and follows the quote better.
 
     ** RULE - ADDITIONAL PLAY PILES - 04/06
 > original idea from Ivan's rule on 04/06:
@@ -101,6 +106,12 @@ Paul Allen's Card: Bateman reveals a card from their hand. Any other player may 
 "When a [...] is played, tuck all cards attached to this one, then attach the top card of the Draw Pile to this card. All tags of attached cards are forbidden."
 > wording needs to be changed but the idea is there
 
+> [09/07]
+{Condition}, tuck all cards attached to this one, then attach the top card of the Draw Pile to this card.
+If you play a card with a Tag that matches the attached card, draw a card.
+> this wording can hose Jokers entirely - not REALLY intended? 
+
+
     ** RULE CARD - BALL AND CHAIN
 > originally from George's rule on 08/06:
 "Ball and Chain" - [Two & Club]: Pick up this card if you play the Queen of Hearts.
@@ -109,6 +120,9 @@ Paul Allen's Card: Bateman reveals a card from their hand. Any other player may 
 > other question is when Rules Text apply, because what happens if someone has the Ball and Chain and then someone else plays the Queen of Hearts? (currently Rules Text only applies when in the Rules Zone, so it wouldnt change hands)
 > i want to make a divorce joke here, but im not sure how to go about it...
 
+> [09/07]
+> this rule fucked up and evil yo - having 1 out is just too punishing
+> need to make this actually playable sometimes - [Club & Face]?
 
     ** RULE CARD - THE POPE
 > originally from George's rule on 08/06:
@@ -116,6 +130,9 @@ Paul Allen's Card: Bateman reveals a card from their hand. Any other player may 
 > not sure about the naming? he drew a stick figure with a Bible, not sure what that was suppose to mean - maybe Motorhead might be a more relevant name.
 > funny idea though, i need to experiment more with moving Rule Cards to hand, and also giving the cards Tags that arent necessarily just whatever it affects
 > this falls off the more players at the table there are though - maybe make it an "all other players" effect?
+
+> [09/07]
+> is there a joke to be made with 'Face of Spades'?
 
 
     ** RULE CARD - PHONE
@@ -138,7 +155,8 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 
     ** RULE CARD - LOVE LETTER
 > originally from my rule on 30/06
-"Love Letter" - [Heart]: When the Draw Pile is shuffled, add this card to the Draw Pile - When this card is played, you may reveal a [Heart]. If you do, give it to the next player.
+"Love Letter" - [Heart]: When the Draw Pile is shuffled, add this card to the Draw Pile.
+When this card is played, you may reveal a [Heart]. If you do, give it to the next player.
 > see, the joke is that "my heart goes out to you" :]
 > sorry, I'll leave...
 > I also made a custom card back for this card - I think it can be done as a general thing, but still requires a flavour element
@@ -150,6 +168,7 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 
 > this rule is kind of unsafe with harmful heart cards (e.g. Ball and Chain), as it incentivises hoarding the shit out of this card.
 > although the point could be made that those harmful heart cards are the problem there.
+
 
     ** CONCEPT - DECEPTIVE CARDS
 "Three of Diamonds" - [Five], [Spade]
@@ -178,7 +197,8 @@ Give all players one die. When you play a [Five], gain 1 die. When there are no 
 > In this incarnation, I don't like this rule, it is FAR too hateable because its always [Six], [Heart]
 > but the idea of predicting what will be on top when you start your next turn is cool
 > maybe writing it down when you play the card
-> This is effectively a Call to just the State, that the other players do not hear. This implies that Calling does not necessarily need to be speaking out loud, and need not be public.
+> This is effectively a Call to just the State, that the other players do not hear.
+> This implies that Calling does not necessarily need to be speaking out loud, and need not be public.
 
 
     ** CONCEPT - TOKENS
@@ -190,6 +210,7 @@ A Token Card is a type of Card that is created by other effects. These cards are
 > idk smth smth
 "???" - [Wild]: When you play this card, draw a card. You may play an additional time this turn.
 > might work?
+
 
     ** RULE CARD - DOPPLEGANGER
 "Doppleganger" - N/A: When you play this card, reveal another card from your hand. This card becomes a copy of that card.

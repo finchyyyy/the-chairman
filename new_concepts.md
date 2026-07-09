@@ -1,6 +1,7 @@
-This document holds all of mine and others ideas for new rules/system mechanics. When they are finalised, they will be moved to state_approved/cmp_rules or removed if they suck.
-<br> There will be an issue on the issue board for each of these entries. Most recent notes for each will be put here.
-<br> **THIS DOCUMENT IS MEANT TO BE READ IN THE PLAINTEXT MODE, AS ALL DOCUMENTS SHOULD**
+# VIEW THIS IN PLAINTEXT/CODE MODE
+This document holds all of mine and others ideas for new rules/system mechanics.
+When they are finalised, they will be moved to state_approved/cmp_rules.
+Some ideas will probably end up on this cutting room floor.
 
     ** MECHANIC - CYCLING - 29/05
 > originally:

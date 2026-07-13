@@ -221,3 +221,4 @@ A Token Card is a type of Card that is created by other effects. These cards are
 > kind of a situational card, i think this can be very interesting.
 > note that it becomes a copy AFTER it has already been played, so "on play" effects of that card do not trigger.
 > also it turns back to normal after it gets moved like mtg
+

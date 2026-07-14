@@ -222,3 +222,14 @@ A Token Card is a type of Card that is created by other effects. These cards are
 > note that it becomes a copy AFTER it has already been played, so "on play" effects of that card do not trigger.
 > also it turns back to normal after it gets moved like mtg
 
+
+    ** RULE CARD - DOODLING
+> idk literally just thought of this
+When you play a [Nine], draw on this card.
+> This is a card that doesnt effect the game at all.
+> HOWEVER, it does a couple things:
+> first, it introduces the idea of drawing on cards, either for flavour, or for marking cards that you know about (e.g. mystery cards/rule cards)
+> second, its a cool way to record who was playing in a given game
+> third, its a somewhat natural way to make card dividers :]
+> yet to test this in game, i think it will be cool tho
+

@@ -13,7 +13,7 @@ When you play a Jack, you may choose a player. That player may reveal a Queen. I
 While a Queen is on the top of the Draw Pile, you may play a card. If you play a card this way, you must say "M'lady" as you do so.
 
 
-	** Six Seven
+	** SIX SEVEN
 All Sixes are also Sevens, and vice versa.
 
 

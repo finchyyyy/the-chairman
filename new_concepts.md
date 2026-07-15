@@ -214,6 +214,16 @@ A Token Card is a type of Card that is created by other effects. These cards are
 "???" - [Wild]: When you play this card, draw a card. You may play an additional time this turn.
 > might work?
 
+> [14/07]
+> tried with:
+When you play a Six, add a Pass Token to your hand.
+"Pass Token" - N/A: When this card is played, remove it from play.
+> the idea is that this card removes itself before the approval rule, so it fulfils the play requirement on your turn and you can just pass
+> its a cool play pattern of a card that replaces itself, but its effectively -1 card, but one turn slower, and you can cash it in early to not have to play for a turn.
+
+>   TEMPLATING: saying "add a Pass Token" implies that theres already a rules definition for a "Pass Token", similar to how i have to specifically define Jokers.
+> I think this is probably fine? but could instead have another rule card for this if I don't want it part of the official official rules
+> cos it makes it a bit too much like the MtG CR and that mf waaaaaaay too long
 
     ** RULE CARD - DOPPLEGANGER
 "Doppleganger" - N/A: When you play this card, reveal another card from your hand. This card becomes a copy of that card.
@@ -232,4 +242,9 @@ When you play a [Nine], draw on this card.
 > second, its a cool way to record who was playing in a given game
 > third, its a somewhat natural way to make card dividers :]
 > yet to test this in game, i think it will be cool tho
+
+> [14/07]
+> yeah its cool
+> i like it
+> (truth nuke)
 

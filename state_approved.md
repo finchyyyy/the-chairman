@@ -23,5 +23,4 @@ When you play a Ten, any player may reveal a Two from their hand. If anyone does
 
 	** PAUL ALLEN'S CARD
 When you draw a Jack, you may reveal it. Then choose a player - they must reveal a Jack or draw a card.
-"New card. Wha'd'ya think?"
 > Can have tracking issues (see MtG's Miracle mechanic)

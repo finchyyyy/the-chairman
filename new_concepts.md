@@ -255,7 +255,10 @@ When you play a [Nine], draw on this card.
 
 
 	** BLACKJACK
-When you play a Black Jack, all players play a round of Blackjack (All players play individually against the dealer. The dealer exposes one card at the start of the game and acts last. The dealer draws cards until their count is above a soft 17, and then holds. The Draw Pile is shuffled at the end of the game). Any player that wins may Tuck a card from their hand. Any player that loses draws a card.
+When you play a Black Jack, all players play a round of Blackjack
+(All players play individually against the dealer. The dealer exposes one card at the start of the game and acts last.
+The dealer draws cards until their count is above a soft 17, and then holds. The Draw Pile is shuffled at the end of the game).
+Any player that wins may Tuck a card from their hand. Any player that loses draws a card.
 > the more I have been making this game, the less I like this rule.
 > It flies in the face of most good design - the only reason its not immediately hated is because everyone already knows how to play Blackjack.
 

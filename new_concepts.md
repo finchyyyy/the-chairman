@@ -248,3 +248,8 @@ When you play a [Nine], draw on this card.
 > i like it
 > (truth nuke)
 
+
+    ** WORDING CHANGES - "ON YOUR TURN"
+"On your turn," as a replacement for "If it is your turn,"
+> removes 2 words, reads more naturally i think
+

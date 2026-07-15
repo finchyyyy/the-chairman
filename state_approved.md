@@ -17,12 +17,6 @@ While a Queen is on the top of the Draw Pile, you may play a card. If you play a
 All Sixes are also Sevens, and vice versa.
 
 
-	** BLACKJACK
-When you play a Black Jack, all players play a round of Blackjack (All players play individually against the dealer. The dealer exposes one card at the start of the game and acts last. The dealer draws cards until their count is above a soft 17, and then holds. The Draw Pile is shuffled at the end of the game). Any player that wins may Tuck a card from their hand. Any player that loses draws a card.
-> the more I have been making this game, the less I like this rule.
-> It flies in the face of most good design - the only reason its not immediately hated is because everyone already knows how to play Blackjack.
-
-
 	** TENS AND TWOS
 When you play a Ten, any player may reveal a Two from their hand. If anyone does so, draw a card. If not, you may tuck a card from your hand.
 

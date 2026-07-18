@@ -28,7 +28,7 @@ When you draw a Jack, you may reveal it. Then choose a player - they must reveal
 
 ## I think there should also be a section for small rules that can be included in the starting ruleset, as they are there to enable other interactions, and are generally unobtrusive.
 > most of these rules do not have much flavour, and their names will just be the mechanics they represent.
-> as such, the tags they apply to can be changed at a whim, and will be labelled with [???]
+> This also means that the Tags they affect are interchangeable, and will be labelled with [???]
 
 	** CYCLING
 On your turn, you may reveal a [???] and discard it. If you do, draw a card.
@@ -39,4 +39,7 @@ When you play a [???], draw on this card.
 
 
 	** PASS TOKENS
-"
+"Pass Token" - N/A: When this card is played, remove it from play.
+> These tokens do not exist naturally in the deck (maybe actually, to introduce that they do exist?)
+> However these are designed to be temporary cards, which are created and destroyed quickly and often.
+

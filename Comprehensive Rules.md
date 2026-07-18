@@ -1,32 +1,47 @@
 ## Mao
 # VIEW THIS IN PLAINTEXT/CODE MODE
 
-	Golden Rules
+	1. Golden Rules
 	
 - Mao has many rules. The only rule that may be revealed is this one.
+> Mostly a holdover from generic Mao, but I think I still want this.
+> It encourages the philosophy that the game should still be simple enough
+>  that anyone should be able to sit down and pick up on what is going on.
 
 - Every action is forbidden except those that are explicitly permitted.
+> The most important thing to note is that you can still do things that are forbidden.
 
 - If a forbidden action is taken, any cards involved in the action are moved to the offender's hand. <br>
 	  The offending player must also draw a card.
+> Sometimes, this punishment is worth it.
 
 - The State may do what it pleases.
+> Anything that involves the running of the game in general is done by The State.
+
+- All rules apply to all players at all times.
+> this mostly applies to any rules that refer to "you"
+
+- If an action is written in the passive voice, the action is performed by The State.
+- If an action is written as a command, the action is performed by whichever player the rule is relevant.
+> kinda ass wording because of the "all rules to all players" thing
+> also need to mention that any action taken as a result of a rule card is always allowed, but is still listened for.
+
+	Tags
 
 
 
-	2. Cards:
-		*Cards are the primary game object of Mao.*
 
-[2.1] A card is any object which has all of the following:
+	Cards
+
+*Cards are the primary game object of Mao.*
+
+A card is any object which has all of the following:
 		a [Name] (it need not be unique)
 		a "front" and "back" face (these are designated when added to the game)
 
-[2.2] A card may also have any amount of the following:
+A card may also have any amount of the following:
 		Rules Text
 		Tags
-
-[2.3] A Basic Card is a type of Card that is part of the deck at the start of the game.
-[2.4] A Rule  Card is a type of Card that is created by players. These cards are moved to the Rules Zone after being played.
 
 	3. Basic Operations:
 	   	*Listed here are standard actions that will be used commonly in Rules Text.*
@@ -38,13 +53,6 @@
 [3.5] Return: To return, take a card and put it on the top of the Draw Pile.
 [3.6] Reveal: To reveal, choose a card and make it public to all players.
 
-
-	4. Rules Text:
-		*Mao has specific ways in which it words its rules.*
-
-[4.1] Any Rules Text in The State's [Rules Zone] applies to all players at all times.
-[4.2] Most Rules Text is to be written in the second person. "You" or "Your" are used in the singular, unless otherwise stated. 
-[4.3] If a piece of Rules Text contains an action in the active voice, you are responsible for the action, if in the passive voice, The State performs the action.
 
 
 	5. Rule Cards:

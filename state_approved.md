@@ -1,5 +1,5 @@
-This document contains all 'added' rules that I consider "complete" (suffiently flavourful and mechanically interesting). <br>
-**THESE NOTES ARE INTENDED TO BE READ IN PLAINTEXT MODE.** (i hate how github presents .md)
+This document contains all additional rules that I consider "complete" (suffiently flavourful and mechanically interesting). <br>
+# THESE NOTES ARE INTENDED TO BE READ IN PLAINTEXT MODE.
 
 	** ACES SCRY
 When you play an Ace, you may look at the top card of the Draw Pile - you may tuck it.
@@ -24,3 +24,19 @@ When you play a Ten, any player may reveal a Two from their hand. If anyone does
 	** PAUL ALLEN'S CARD
 When you draw a Jack, you may reveal it. Then choose a player - they must reveal a Jack or draw a card.
 > Can have tracking issues (see MtG's Miracle mechanic)
+
+
+## I think there should also be a section for small rules that can be included in the starting ruleset, as they are there to enable other interactions, and are generally unobtrusive.
+> most of these rules do not have much flavour, and their names will just be the mechanics they represent.
+> as such, the tags they apply to can be changed at a whim, and will be labelled with [???]
+
+	** CYCLING
+On your turn, you may reveal a [???] and discard it. If you do, draw a card.
+
+
+	** DOODLING
+When you play a [???], draw on this card.
+
+
+	** PASS TOKENS
+"

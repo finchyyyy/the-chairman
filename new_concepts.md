@@ -13,12 +13,14 @@ Some ideas will probably end up on this cutting room floor.
 > basic cycling clause becomes "If it is your turn, you may cycle [???]s."
 > then also "If you do, [Action]."
 
+
 	** RULE CARD - RECYCLING
 > completely forgot to write this one down somehow.
 On your turn, you may cycle [???]s. If you do so, draw a card. The next card you play this turn gains the Tags of the cycled card.
 > originally had a much longer name for this rule, but recycling makes so much more sense
 > its also like a reverse Doppleganger
 > The Tags should probably last for the entire time it is on the pile - will this cause tracking errors?
+
 
     ** GAMEMODE - 1v1 DECKBUILDER - 30/05
 > im a magic nerd so of course i want to play magic within this game

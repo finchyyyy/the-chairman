@@ -11,7 +11,7 @@
 - Every action is forbidden except those that are explicitly permitted.
 > The most important thing to note is that you can still do things that are forbidden.
 
-- If a forbidden action is taken, any cards involved in the action are moved to the offender's hand. <br>
+- If a forbidden action is taken, any cards involved in the action are moved to the offender's hand.
 	  The offending player must also draw a card.
 > Sometimes, this punishment is worth it.
 
@@ -28,8 +28,18 @@
 
 	Tags
 
+- Tags are qualities that can be given to cards.
+- Each Tag has a unique identifier (either a name or a symbol, preferably both)
+> the name is needed when referring with rule cards, symbol is needed when giving the tag to a card.
 
+- Tags appear surrounded in square brackets e.g. [Ace], [A]
+> not sure if i want to keep the square brackets around the names (i.e. Ace, [A] )
 
+> still need to talk about tag comparison
+
+> and compound tags
+
+> and special tags like Wild
 
 	Cards
 

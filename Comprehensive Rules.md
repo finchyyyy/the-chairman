@@ -42,8 +42,12 @@
 > and special tags like Wild
 
 	Cards
+	
+- Cards are the primary game object of Mao.
 
-*Cards are the primary game object of Mao.*
+- Each unique card has a name. Any card with this name is a copy of this card.
+> this is basically Plato's idea of Forms.
+
 
 A card is any object which has all of the following:
 		a [Name] (it need not be unique)

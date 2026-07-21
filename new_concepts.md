@@ -49,7 +49,7 @@ Your deck must have exactly the tags a normal deck would have (4 [Ace], 4 [Two],
 > (some) player creativity will have to be sacrificed here i think?
 
 
-    ** RULE/CONCEPT - GAGGING PLAYERS - 30/05
+    ** MECHANIC - GAGGING PLAYERS - 30/05
 > original idea from Cam's rule on 26/05:
 "When you play a [Six], you must change the accent/language that you are speaking in"
 
@@ -73,7 +73,7 @@ How does a player unfamiliar with the rule know when they are affected by it?
 > "until you have taken [X] turns"?
 
 
-    ** RULE/SUBGAME - PAUL ALLEN'S CARD - 30/05
+    ** RULE CARD/MECHANIC - PAUL ALLEN'S CARD - 30/05
 > original idea from Shaiya's rule on 26/05:
 "When you play an [Ace], you may Reveal a card from your hand, with the call "New card. Wha'd'ya think?". If you do so, choose a player other than yourself, with the call "Let's see Paul Allen's card.". That player reveals a card from their hand. Whoever reveals the lowest card (2 is lowest) moves all cards revealed in this exchange to their hand.
 
@@ -95,7 +95,7 @@ Paul Allen's Card: Bateman reveals a card from their hand. Any other player may 
 > This has tracking issues (see MTG's Miracle), but i also like this, it requires much less wording to implement and follows the quote better.
 
 
-    ** RULE - ADDITIONAL PLAY PILES - 04/06
+    ** MECHANIC - ADDITIONAL PLAY PILES - 04/06
 > original idea from Ivan's rule on 04/06:
 "When you play a card of the same rank as that on the top of the Play Pile, you may instead create a new Play Pile, moving the card you just played onto it. If you do, each player other than you gives you a card of their choice. If you play a card onto this pile that matches the rank of the main Play Pile, draw a card, then move all cards from this pile onto the main Play Pile - this pile ceases to exist."
 > (rewritten to fit rules nomenclature)
@@ -106,7 +106,7 @@ Paul Allen's Card: Bateman reveals a card from their hand. Any other player may 
 > otherwise very cool and swag
 
 
-    ** CONCEPT - ATTACHING CARDS TO RULES - 04/06
+    ** MECHANIC - ATTACHING CARDS TO RULES - 04/06
 > this idea has existed for a while in my brain, but still havent found a good way to use it yet
 > similar to Oblivion Ring-type mechanics in MTG, where you put cards "beneath" other cards for another purpose.
 > maybe "Attach the top card of the Draw Pile to this card. You may not play any card that shares a Tag with the attached card"?
@@ -181,7 +181,7 @@ When this card is played, you may reveal a [Heart]. If you do, give it to the ne
 > although the point could be made that those harmful heart cards are the problem there.
 
 
-    ** CONCEPT - DECEPTIVE CARDS
+    ** MECHANIC - DECEPTIVE CARDS
 "Three of Diamonds" - [Five], [Spade]
 > yeah thats right fuck you.
 > this is sorta just to teach that the Tags on the top right is the only relevant thing to determine if a card is playable or not.
@@ -189,7 +189,7 @@ When this card is played, you may reveal a [Heart]. If you do, give it to the ne
 > If I ever make a singleplayer computer game on this, I WILL be using this.
 
 
-    ** CONCEPT - CARDS WITH HIDDEN TAGS
+    ** MECHANIC - CARDS WITH HIDDEN TAGS
 > originally from Joseph's rule on 30/06:
 "Mystery Card" - [N/A]: N/A
 (some other card) - [N/A]: The Mystery Card is a [Four] and a [Club]
@@ -212,7 +212,7 @@ When this card is played, you may reveal a [Heart]. If you do, give it to the ne
 > This implies that Calling does not necessarily need to be speaking out loud, and need not be public.
 
 
-    ** CONCEPT - TOKENS
+    ** MECHANIC - TOKENS
 > once again shamelessly ripping from mtg
 A Token Card is a type of Card that is created by other effects. These cards are removed from the game once played.
 > could have standardised-ish tokens? not sure what they could be
@@ -262,7 +262,7 @@ When you play a [Nine], draw on this card.
 > removes 2 words, reads more naturally i think
 
 
-	** BLACKJACK
+	** RULE CARD - BLACKJACK
 When you play a Black Jack, all players play a round of Blackjack
 (All players play individually against the dealer. The dealer exposes one card at the start of the game and acts last.
 The dealer draws cards until their count is above a soft 17, and then holds. The Draw Pile is shuffled at the end of the game).

@@ -268,5 +268,20 @@ When you play a Black Jack, all players play a round of Blackjack
 The dealer draws cards until their count is above a soft 17, and then holds. The Draw Pile is shuffled at the end of the game).
 Any player that wins may Tuck a card from their hand. Any player that loses draws a card.
 > the more I have been making this game, the less I like this rule.
-> It flies in the face of most good design - the only reason its not immediately hated is because everyone already knows how to play Blackjack.
+> It flies in the face of most good design - the only reason it works is because everyone already knows how to play Blackjack.
 
+> [22/07]
+> okay i just realised most of this stuff is much less of a problem if only the player who played Jack Black plays Blackjack.
+When you play a Black Jack, play a round of Blackjack ( {Blackjack reminder spiel} ). If you win, you may tuck a card. If you lose, draw a card.
+> fewer piles of cards are created, which was one of my greatest annoyances
+> -2/-0 adv on a 2-of is good
+> I think custom cards with multiple rank tags should be worth the sum of their tag's value.
+> e.g. if the card has {[Queen], [Jack]}, it's worth 20.
+
+
+	** RULE CARD - MONOGAMY
+"Marriage Certificate" - [Queen], [King]: When this card is approved, all tags that are shared with the card below it are removed.
+> so basically it means that if this is played on a King, you have to play a Queen.
+> This wording can mean that if this is played on a card with both Queen and King, they both get removed and theres a brick on top.
+> maybe instead call it Wedding Ring?
+> i like this from a flavour perspective but idk if it's relevant enough

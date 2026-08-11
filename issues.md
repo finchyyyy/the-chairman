@@ -17,3 +17,9 @@ but it slows down the game quite a lot when you have to make rules before the ga
 > Giving players plain cards when the game starts could work,
 > but they need some form of privacy when they make their cards.
 > little easels would be really funny to have for this lol
+
+    ** ART ON THE BACK OF CARDS
+Do I want unique identifiers on the back of cards?
+
+> In favour: gives a hint to the function of the rule
+>   Against: old players can already know what a rule is when its put down (is this a bad thing?)

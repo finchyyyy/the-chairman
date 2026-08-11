@@ -288,3 +288,17 @@ When you play a Black Jack, play a round of Blackjack ( {Blackjack reminder spie
 > This wording can mean that if this is played on a card with both Queen and King, they both get removed and theres a brick on top.
 > maybe instead call it Wedding Ring?
 > i like this from a flavour perspective but idk if it's relevant enough
+
+
+	** RULE CARD - TOPDECK CHECK
+"Topdeck Check" - N/A:
+As the Draw Pile is shuffled, shuffle in all attached cards.
+You may reveal Red! or Black!. If you do so, reveal the top card of the Draw Pile. If you are right, reattach the Red! or Black! you revealed. If you are wrong, draw a card.
+
+"Red!" - N/A: (You may reveal this card.)
+"Black!" - N/A: (You may reveal this card.)
+
+> while kinda long to template, this is really easy to understand, and works well with other rules that allow you to look at the top of the deck.
+> you can also guaranteed force it out of your hand in one turn by spam-revealing it.
+> i love this, im immediately putting this in state-approved when I figure out how to write this without using "right" and "wrong" while also not being a billion lines long
+

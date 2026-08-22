@@ -302,3 +302,19 @@ You may reveal Red! or Black!. If you do so, reveal the top card of the Draw Pil
 > you can also guaranteed force it out of your hand in one turn by spam-revealing it.
 > i love this, im immediately putting this in state-approved when I figure out how to write this without using "right" and "wrong" while also not being a billion lines long
 
+
+	** CONCEPT - CONSISTENT DECK ADDITIONS
+"???" - N/A:
+"When you play a non-token Three, add a copy of 'Three of Diamonds' to your hand."
+
+> mostly a pisstake rule, i had to add non-token because otherwise the Three of Diamonds would infinitely create additional copies in hand
+> ^ "non-token" is not a real word in my game yet, maybe use "natural"?
+> but there might be something interesting that can happen with this
+> this will add 4 copies of the given card every time the deck is played through - is this a bad thing?
+> this can dilute the deck - maybe i can use this to add bricks to the deck instead?
+
+> Possible Rule Card:
+"Brick Factory" - N/A:
+When the Draw Pile is shuffled, shuffle in a Brick. (A Brick is a card with no tags and says nothing.)
+> I think this will be cool, cos its an effect that will gradually makes the game harder, which is what the game sorely misses
+> I'm not sure how players will react to this tho, the intent is to make them make rules that can remove bricks from their hands.

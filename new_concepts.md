@@ -318,3 +318,48 @@ You may reveal Red! or Black!. If you do so, reveal the top card of the Draw Pil
 When the Draw Pile is shuffled, shuffle in a Brick. (A Brick is a card with no tags and says nothing.)
 > I think this will be cool, cos its an effect that will gradually makes the game harder, which is what the game sorely misses
 > I'm not sure how players will react to this tho, the intent is to make them make rules that can remove bricks from their hands.
+
+
+	** RULE CARD - FEALTY
+> concept created by George on 26/8/26, revised by me a day after:
+"Fealty" - [Wild]: When this card is approved, you may reveal a King. If you do so, all other players must either reveal a King or reveal their hand.
+> unplayed but cool
+> I need to do more with handtrap rules in future...
+
+	** RULE CARD - LOOTING
+"When you play a [???], draw a card then tuck a card."
+> how powerful is this sort of effect?
+
+	** RULE CARD - DELAYED LOOTING
+"Delayed Looting" - [Wild]:
+When this card is approved for the first time, return it to your hand and draw a card.
+When this card is approved for the second time, tuck a card.
+
+> you can basically "charge" this thing up and use it later
+> tracking how many times its been charged can be annoying though.
+
+
+	** RULE CARD - BRICKED UP
+> originally Aster's Rule on 26/8:
+"You may spend your turn to give someone else a Brick".
+> This rule was created in response to the Brick Factory.
+> has some promise, but it's too easy to do.
+
+> possible change:
+"You may move a Brick from your hand to another player's hand. If you do, draw 3 cards.
+> This could almost be made into a Basic Rule, as a universal way to get rid of Bricks if there are no other ways to do so. 
+
+
+	** CONCEPT - MERCHANTS
+> another possible way to get rid of bricks:
+"Brick Merchant" - N/A: 
+
+{Back}
+You may flip this card. If you do, draw a card.
+
+{Front}
+You may discard two Bricks. If you do, create a Pass Token.
+You may discard three Bricks. If you do, create a Joker.
+When you pass, flip this card.
+
+> as of yet untested, requires large amounts of bricks and the creation of a discard pile (shuffled in when draw pile is shuffled).

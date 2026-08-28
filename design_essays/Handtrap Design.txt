@@ -1,7 +1,7 @@
 "Handtrap Design" refers to rules that check for specific types of cards that you must have in your hand. If you do not have them, you normally suffer some sort of penalty.
 
 Examples:
-Fealty - [Wild]: "When this card is approved, you may reveal a King. All other players must either reveal a King or reveal their hand."
+Fealty - [Wild]: "When this card is approved, you may reveal a King. If you do so, all other players must either reveal a King or reveal their hand."
 Tens and Twos - [N/A]: "When you play a Ten, any player may reveal a Two. If one is revealed, draw a card. If not, tuck a card."
 Peeping Tom - [N/A]: "When you play a Jack, choose another player - they may reveal a Queen. If one is revealed, tuck this card and draw 3 cards. If not, you may look at your opponent's hand."
 

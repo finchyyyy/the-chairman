@@ -1,0 +1,13 @@
+"Handtrap Design" refers to rules that check for specific types of cards that you must have in your hand. If you do not have them, you normally suffer some sort of penalty.
+
+Examples:
+Fealty - [Wild]: "When this card is approved, you may reveal a King. All other players must either reveal a King or reveal their hand."
+Tens and Twos - [N/A]: "When you play a Ten, any player may reveal a Two. If one is revealed, draw a card. If not, tuck a card."
+Peeping Tom - [N/A]: "When you play a Jack, choose another player - they may reveal a Queen. If one is revealed, tuck this card and draw 3 cards. If not, you may look at your opponent's hand."
+
+These sorts of rules usually slow down the game by encouraging you to keep certain cards in hand, lest you be punished for not having them.
+Playing any of the looked-for cards carries an inherent risk, in that your opponents now know you are unlikely to be holding that looked-for card.
+Nevertheless, you must still play these cards in order to win. The ideal case in these scenarios is where your last cards are the handtraps.
+This means that people are likely to want to end on these cards, so your mindset when you see someone with one card left is slightly different.
+
+These rules are generally quite safe to add to a game as they normally make the game harder, and they encourage players to want to hold specific cards instead of playing them immediately.

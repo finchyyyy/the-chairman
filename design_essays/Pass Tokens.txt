@@ -1,0 +1,18 @@
+How powerful is a Pass Token?
+Pass Token - [N/A]: "When this card is played, remove it from the game."
+
+This is a question I have asked myself for a while, and I am still not sure.
+The ability to pass comes from the fact that it allows you to safely play a card on a turn that you normally should not be able to.
+It does not need Tags, for it removes itself before it has time to be approved.
+
+I originally knew this sort of effect was powerful, but I was unsure how powerful it actually was.
+I had toyed with Cycling before I created this card, and had already determined the ability to go +0 on a turn was quite strong.
+However, the question that convinced me of the Pass Token's strength was this:
+
+    "Would I choose to add this to my hand if I had the choice?"
+
+My gut feeling in most situations is yes.
+This comes from the idea that the challenge that a game like Mao presents is "How easy is it to play all the cards in my hand?"
+A Pass Token is trivially easy to play, and can save you from having to draw a card.
+
+This means that the only reason you would not want a Pass Token is so you can get rid of your cards quicker.

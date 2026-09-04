@@ -313,11 +313,13 @@ You may reveal Red! or Black!. If you do so, reveal the top card of the Draw Pil
 > this will add 4 copies of the given card every time the deck is played through - is this a bad thing?
 > this can dilute the deck - maybe i can use this to add bricks to the deck instead?
 
-> Possible Rule Card:
 "Brick Factory" - N/A:
-When the Draw Pile is shuffled, shuffle in a Brick. (A Brick is a card with no tags and says nothing.)
+When the last card is removed from the Draw Pile, shuffle in a Brick. (A Brick is a card with no tags and says nothing.)
 > I think this will be cool, cos its an effect that will gradually makes the game harder, which is what the game sorely misses
 > I'm not sure how players will react to this tho, the intent is to make them make rules that can remove bricks from their hands.
+> Additional Rules Text:
+If it is your turn, you may discard a Brick. If you do, draw 3 cards.
+> the discard pile is a separate zone which 
 
 
 	** RULE CARD - FEALTY
@@ -349,6 +351,9 @@ When this card is approved for the second time, tuck a card.
 "You may move a Brick from your hand to another player's hand. If you do, draw 3 cards.
 > This could almost be made into a Basic Rule, as a universal way to get rid of Bricks if there are no other ways to do so. 
 
+>[03/09]
+> this might also actually work quite well to be put on Brick Factory, but discarding/tucking the brick instead of putting in another person's hand.
+
 
 	** CONCEPT - MERCHANTS
 > another possible way to get rid of bricks:
@@ -363,3 +368,23 @@ You may discard three Bricks. If you do, create a Joker.
 When you pass, flip this card.
 
 > as of yet untested, requires large amounts of bricks and the creation of a discard pile (shuffled in when draw pile is shuffled).
+
+> [03/09]
+> George made a slightly different version:
+"Brick Merchant" - N/A:
+
+You may attach a Brick. If you do, look at and rearrange the top 5 cards of the Draw Pile, then draw 4.
+You may attach two Bricks. If you do, create a Pass Token or any standard card, and add it to your hand.
+You may attach three Bricks. If you do, draw a card and create a new Rule Card.
+
+> maybe this wants a clause that makes him piss off after getting enough bricks, maybe he makes a house or smth lol
+
+
+	** RULE CARD - THE MIMIIIIIIIIC
+> originally Ron's rule:
+"The Mimic" - N/A: You may play this card at the same time as playing another card. If you are caught doing so, the catcher puts this card into their hand and draws a card.
+
+> hilarious, but has a couple issues in my current wordings of the rules.
+> first attempt to rewrite:
+"The Mimic" - N/A: While on the Play Pile, this card has all tags of the card beneath it. If the Play Pile is checked on the turn this is played, put this card into the checker's hand.
+

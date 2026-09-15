@@ -388,3 +388,59 @@ You may attach three Bricks. If you do, draw a card and create a new Rule Card.
 > first attempt to rewrite:
 "The Mimic" - N/A: While on the Play Pile, this card has all tags of the card beneath it. If the Play Pile is checked on the turn this is played, put this card into the checker's hand.
 
+
+	** RULE CARD - SANDWICH
+> my design, referencing Gordon Malloy's sandwich from The Orville
+"Sandwich" - [Wild]:
+When this card is approved, tuck a card from your hand.
+You may send this card to the future. If you do so, remove it from the game. Add it to your hand in half an hour.
+> only question for me is how far in the future should it be sent.
+
+
+	** RULE CARD - CHICK MAGNET
+> my design, adapted from Kayah's OnlyFoids:
+"OnlyFoids" - N/A: Can only play on Queens, and only Queens can be played on it.
+
+> or, in Doublespeak:
+"OnlyFoids" - N/A: This card is only valid if played on a Queen. Only Queens are valid plays on this card.
+> This template could be useful to teach about Tags.
+
+> a changing to Chick Magnet:
+"Chick Magnet" - [Jack]: When this card is approved, all players may play a Queen. Queens are valid plays on this card.
+
+
+	** RULE CARD - THE ONE RING
+> Kayah's design:
+"The One Ring" - N/A: Have to hold this card until it's your last card, take it all the way to Mordor. Play this as your last card, as Gandalf intended.
+
+> in Doublespeak:
+"The One Ring" - N/A: This card is always invalid unless it is your last card. This card is always valid if it is your last card. (Carry it into Mount Doom.)
+
+
+	** TEMPLATING - [↓]: "AS BELOW"
+Some cards have effects that I want you to be able to access all the time, but I don't want to smear over the top of the Play Pile with a [Wild].
+So this is not an actual tag, but shorthand for "While this is on the Play Pile, it has the Tags of the card beneath it."
+
+
+	** RULE CARD - KETCHUP AND BROWN SAUCE
+> George made Ketchup, so Kayah made it a cycle:
+"Ketchup" 		 - N/A: This card is valid if played on a Black card. A card played on this is valid if it is Red.
+"HP Brown Sauce" - N/A: This card is valid if played on a Red card. A card played on this is valid if it is Black.
+> In their original rulings, you could play Ketchup on HP Brown Sauce and vice versa, but this wording does not allow it.
+
+	** RULE CARD - MASSIVE BRAIN
+> George's design, based on the card from King of Tokyo:
+"Massive Brain" - N/A:
+When you draw this card, keep it open infront of you. Place 2 counters on it.
+When you draw a card while this still has counters on it, you may discard that card. if you do, draw a new one and remove a counter.
+When this card has no more counters on it, discard it.
+> love this
+
+> wonder if I can make it more like the actual card though...
+"Massive Brain" - N/A:
+When you draw this card, keep it open infront of you. Then draw a card. (Your Massive Brain is not part of your hand.)
+When you draw a card, you may discard it and draw another. You may do this only once per turn.
+When the Draw Pile has no cards, add it to the Draw Pile.
+> this might be too powerful though? means you never brick for the remainder of the deal.
+
+

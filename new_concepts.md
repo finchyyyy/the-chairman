@@ -302,6 +302,16 @@ You may reveal Red! or Black!. If you do so, reveal the top card of the Draw Pil
 > you can also guaranteed force it out of your hand in one turn by spam-revealing it.
 > i love this, im immediately putting this in state-approved when I figure out how to write this without using "right" and "wrong" while also not being a billion lines long
 
+> [01/10/26]
+"Topdeck Check" - N/A:
+When the last card is removed from the Draw Pile, shuffle in all attached cards.
+You may reveal Red! or Black!. If you do so, reveal the top card of the Draw Pile.
+	If it is a Heart or Diamond, attach "Red!" to this.
+	If it is a Spade or Club, attach "Black!" to this.
+	If you did not attach a card, draw a card.
+
+"Red!" - N/A: (You may reveal this card.)
+"Black!" - N/A: (You may reveal this card.)
 
 	** CONCEPT - CONSISTENT DECK ADDITIONS
 "???" - N/A:
@@ -438,9 +448,23 @@ When this card has no more counters on it, discard it.
 
 > wonder if I can make it more like the actual card though...
 "Massive Brain" - N/A:
-When you draw this card, keep it open infront of you. Then draw a card. (Your Massive Brain is not part of your hand.)
-When you draw a card, you may discard it and draw another. You may do this only once per turn.
+When you draw this card, place it open infront of you. Then draw a card. (Your Massive Brain is not part of your hand.)
+When you draw a card, you may tuck it and draw another. You may do this only once per turn.
 When the Draw Pile has no cards, add it to the Draw Pile.
 > this might be too powerful though? means you never brick for the remainder of the deal.
 
+
+	** TEMPLATING - ARE ALL TAGS JUST SHORTHAND?
+> I'm tinkering with the idea that the symbol tags are just shorthand for straight Rules Text:
+[J] -> "This card is a Jack. Jacks are valid plays on this card."
+[Wild] -> "This card is valid on any card with at least one Tag. Any card with at least one Tag is a valid play on this card."
+[↓] -> "While this card is on the Play Pile, this card has the Tags of the card directly beneath it.
+
+	** RULE CARD - BLOOD ROSES
+> Olwen's rule:
+"Blood Roses" - [Heart], [Diamond]: When this card is approved, choose a player. They may only play red cards for their next 3 turns.
+
+> I love these sorts of cards - theyre fair in the same way as Love Letter in that they put a restriction on the next player, but give them ways to get out
+> feels really good to play this out and then switch to black using a Joker or same-rank plays
+> need to find a good name for the black suit version
 
